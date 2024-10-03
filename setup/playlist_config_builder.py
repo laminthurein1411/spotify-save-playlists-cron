@@ -25,15 +25,15 @@ playlists_config = [
     # Discover Weekly example
     {
     "day": 0, # will only run on Mondays
-    "source": "",
-    "target": ""
+    "source": "37i9dQZF1DX4JAvHpjipBk",
+    "target": "2efKcRTtvVwCWJkNoVlGnn"
     },
 
     # Release Radar example
     {
     "day": 4, # will only run on Fridays
-    "source": "",
-    "target": ""
+    "source": "37i9dQZEVXbbQZV8iuu4xo",
+    "target": "2efKcRTtvVwCWJkNoVlGnn"
     }
 
 ]
