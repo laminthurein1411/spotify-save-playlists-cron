@@ -29,4 +29,4 @@ jobs:
           PLAYLISTS_CONFIG: ${{ secrets.PLAYLISTS_CONFIG }}
 
       - name: Keepalive
-        uses: gautamkrishnar/keepalive-workflow@v1
+        uses: efrecon/gh-action-keepalive@main
